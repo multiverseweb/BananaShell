@@ -14,7 +14,7 @@ Designed and developed by [Tejas Gupta](https://github.com/multiverseweb) and [O
 
 ## Get BananaShell?
 
-| [Download](BananaShell.exe) |
+| [Download](https://github.com/multiverseweb/BananaShell/raw/refs/heads/main/BananaShell.exe) |
 |-|
 
 ## Preview
