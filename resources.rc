@@ -1,0 +1,5 @@
+// resources.rc
+
+#include "resource.h"
+
+IDR_ICON1 ICON DISCARDABLE "icon.ico"
