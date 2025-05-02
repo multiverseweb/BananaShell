@@ -19,7 +19,7 @@ Designed and developed by [Tejas Gupta](https://github.com/multiverseweb) and [O
 
 ## Preview
 
-![](banana.png)
+![](https://raw.githubusercontent.com/multiverseweb/BananaShell/refs/heads/main/banana.png)
 
 
 ---
